@@ -1,0 +1,9 @@
+requests
+keyboard
+pyperclip
+pywin32
+speechrecognition
+pyttsx3
+torch
+sounddevice
+numpy
